@@ -79,7 +79,7 @@ class _AnimatedUIPageState extends State<AnimatedUIPage> with SingleTickerProvid
                   //   print('Could not launch $url');
                   // }
                 },
-                child: Text('Get Started'),
+                child: Text('NURIK CHERT'),
               ),
             ],
           ),
